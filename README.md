@@ -1,5 +1,6 @@
 # Hilt-Navigation-Issue
 A simple project reproducing Dagger.Hilt 2.34 issue with Jetpack Navigation.
+https://github.com/google/dagger/issues/2533
 
 
 Prior to the 2.34 update, when using Jetpack Navigation with animation, when going back, the animation looked correctly.
