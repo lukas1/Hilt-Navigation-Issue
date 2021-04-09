@@ -1,4 +1,4 @@
-package com.example.hiltnavigationissue
+package com.example.navigationfragmentissue
 
 import android.os.Bundle
 import android.view.View

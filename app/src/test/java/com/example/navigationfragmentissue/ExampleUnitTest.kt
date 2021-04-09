@@ -1,4 +1,4 @@
-package com.example.hiltnavigationissue
+package com.example.navigationfragmentissue
 
 import org.junit.Test
 
